@@ -46,4 +46,7 @@ These Terms shall be governed by and construed in accordance with the laws of [J
 Contact Information
 If you have any questions or concerns regarding these Terms or the GymGenius App, please contact us at [Contact Email].
 
+Use of GymGenius on an Apple Device:
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
 By using the GymGenius App, you acknowledge that you have read, understood, and agreed to these Terms of Service.
